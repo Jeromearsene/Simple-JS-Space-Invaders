@@ -1,0 +1,7 @@
+{
+  "name": "Space-Invaders",
+  "version": "0.0.1",
+  "description": "Space Invaders",
+  "main": "main.js",
+  "author": "jeromearsene",
+}
